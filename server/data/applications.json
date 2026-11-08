@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "app_1793870667466_286",
+    "opportunityId": "opp_1793869996813_1",
+    "opportunityTitle": "Rhodes Scholarship at Oxford University",
+    "opportunityType": "Scholarship",
+    "provider": "The Rhodes Trust & University of Oxford",
+    "fullName": "Aarav Sharma",
+    "email": "aarav@test.edu",
+    "phone": "+1 555-0123",
+    "educationLevel": "Undergraduate",
+    "university": "Tech Institute",
+    "major": "Artificial Intelligence",
+    "gpa": "3.92",
+    "portfolioUrl": "https://github.com/aarav-ai",
+    "statement": "I am deeply passionate about this fellowship opportunity and have conducted research on distributed consensus algorithms.",
+    "status": "Shortlisted",
+    "createdAt": "2026-11-05T09:24:27.466Z",
+    "updatedAt": "2026-11-05T09:24:27.490Z",
+    "adminNotes": "Strong research background"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "scholara-portal",
+  "version": "1.0.0",
+  "description": "Scholarships and Internships Portal with React.js, Express, and MongoDB",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "seed": "node server/seeds/seedData.js"
+  },
+  "keywords": [
+    "react",
+    "mongodb",
+    "scholarships",
+    "internships",
+    "portal",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC"
+}

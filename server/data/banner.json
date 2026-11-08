@@ -1,0 +1,40 @@
+{
+  "badgeText": "Verified Opportunities • 2026/2027 Academic & Career Cycle",
+  "headline": "Find Prestigious Scholarships & Top-Tier Internships",
+  "headlineHighlight": "Top-Tier Internships",
+  "subtitle": "Direct access to world-class academic fellowships, tuition grants",
+  "bannerHeight": "normal",
+  "backgroundImage": "https://money.com/wp-content/uploads/2025/07/Best-Colleges-2025-Top-19.jpg?quality=60&w=600",
+  "backgroundImageFit": "cover",
+  "scholarshipBannerImage": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=1600&q=85",
+  "internshipBannerImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1600&q=85",
+  "typeBannerImageFit": "cover",
+  "trendingTags": [
+    "Fully Funded",
+    "Computer Science",
+    "Engineering",
+    "Remote",
+    "Business",
+    "Master",
+    "PhD"
+  ],
+  "customHighlights": [
+    {
+      "label": "Verified Awards",
+      "value": "100%"
+    },
+    {
+      "label": "Average Funding",
+      "value": "$28,000+"
+    },
+    {
+      "label": "Global Universities",
+      "value": "60+"
+    },
+    {
+      "label": "Success Rate",
+      "value": "94%"
+    }
+  ],
+  "useAutoStats": true
+}

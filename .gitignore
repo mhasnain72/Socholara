@@ -1,0 +1,15 @@
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Local runtime state
+node_modules/
+.venv/
+__pycache__/
+logs/
+*.log
+dist/
+
+# Local data
+server/data/*.db
